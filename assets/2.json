@@ -1,0 +1,19 @@
+{
+  "name": "Star Wars 2",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E523wwS3nA48NTxV6ZNcrAzAJTfyMziCka4ZwTBoGmmp",
+        "share": 100
+      }
+    ]
+  }
+}

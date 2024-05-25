@@ -1,0 +1,19 @@
+{
+  "name": "Star Wars 1",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "E523wwS3nA48NTxV6ZNcrAzAJTfyMziCka4ZwTBoGmmp",
+        "share": 100
+      }
+    ]
+  }
+}
